@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="JfxComponents1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/testlibrary/JfxComponents/javafx.graphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
